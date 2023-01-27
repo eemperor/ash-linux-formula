@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/plus3it/ash-linux-formula.svg)](https://travis-ci.org/plus3it/ash-linux-formula)
 # ash-linux-formula
 
+This is a test.
+
 Automated System Hardening (ASH) for Linux is a [Salt](http://saltstack.org) 
 formula to apply security benchmarks to Linux systems. This specific security 
 bundle primarily targets systems derived from the Red Hat Enterprise Linux 6 
